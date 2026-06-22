@@ -1,0 +1,14 @@
+C:\Users\hp\OneDrive\Documents\DN5\EngineeringConcepts\FactoryMethodPattern\FactoryMethodPattern\bin\Debug\net10.0\FactoryMethodPattern.exe
+C:\Users\hp\OneDrive\Documents\DN5\EngineeringConcepts\FactoryMethodPattern\FactoryMethodPattern\bin\Debug\net10.0\FactoryMethodPattern.deps.json
+C:\Users\hp\OneDrive\Documents\DN5\EngineeringConcepts\FactoryMethodPattern\FactoryMethodPattern\bin\Debug\net10.0\FactoryMethodPattern.runtimeconfig.json
+C:\Users\hp\OneDrive\Documents\DN5\EngineeringConcepts\FactoryMethodPattern\FactoryMethodPattern\bin\Debug\net10.0\FactoryMethodPattern.dll
+C:\Users\hp\OneDrive\Documents\DN5\EngineeringConcepts\FactoryMethodPattern\FactoryMethodPattern\bin\Debug\net10.0\FactoryMethodPattern.pdb
+C:\Users\hp\OneDrive\Documents\DN5\EngineeringConcepts\FactoryMethodPattern\FactoryMethodPattern\obj\Debug\net10.0\FactoryMethodPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Documents\DN5\EngineeringConcepts\FactoryMethodPattern\FactoryMethodPattern\obj\Debug\net10.0\FactoryMethodPattern.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Documents\DN5\EngineeringConcepts\FactoryMethodPattern\FactoryMethodPattern\obj\Debug\net10.0\FactoryMethodPattern.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Documents\DN5\EngineeringConcepts\FactoryMethodPattern\FactoryMethodPattern\obj\Debug\net10.0\FactoryMethodPattern.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Documents\DN5\EngineeringConcepts\FactoryMethodPattern\FactoryMethodPattern\obj\Debug\net10.0\FactoryMethodPattern.dll
+C:\Users\hp\OneDrive\Documents\DN5\EngineeringConcepts\FactoryMethodPattern\FactoryMethodPattern\obj\Debug\net10.0\refint\FactoryMethodPattern.dll
+C:\Users\hp\OneDrive\Documents\DN5\EngineeringConcepts\FactoryMethodPattern\FactoryMethodPattern\obj\Debug\net10.0\FactoryMethodPattern.pdb
+C:\Users\hp\OneDrive\Documents\DN5\EngineeringConcepts\FactoryMethodPattern\FactoryMethodPattern\obj\Debug\net10.0\FactoryMethodPattern.genruntimeconfig.cache
+C:\Users\hp\OneDrive\Documents\DN5\EngineeringConcepts\FactoryMethodPattern\FactoryMethodPattern\obj\Debug\net10.0\ref\FactoryMethodPattern.dll
