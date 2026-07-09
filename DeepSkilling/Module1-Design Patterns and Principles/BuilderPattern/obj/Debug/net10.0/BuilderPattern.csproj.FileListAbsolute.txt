@@ -1,0 +1,14 @@
+C:\Users\hp\OneDrive\Documents\DN5\EngineeringConcepts\BuilderPattern\BuilderPattern\bin\Debug\net10.0\BuilderPattern.exe
+C:\Users\hp\OneDrive\Documents\DN5\EngineeringConcepts\BuilderPattern\BuilderPattern\bin\Debug\net10.0\BuilderPattern.deps.json
+C:\Users\hp\OneDrive\Documents\DN5\EngineeringConcepts\BuilderPattern\BuilderPattern\bin\Debug\net10.0\BuilderPattern.runtimeconfig.json
+C:\Users\hp\OneDrive\Documents\DN5\EngineeringConcepts\BuilderPattern\BuilderPattern\bin\Debug\net10.0\BuilderPattern.dll
+C:\Users\hp\OneDrive\Documents\DN5\EngineeringConcepts\BuilderPattern\BuilderPattern\bin\Debug\net10.0\BuilderPattern.pdb
+C:\Users\hp\OneDrive\Documents\DN5\EngineeringConcepts\BuilderPattern\BuilderPattern\obj\Debug\net10.0\BuilderPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Documents\DN5\EngineeringConcepts\BuilderPattern\BuilderPattern\obj\Debug\net10.0\BuilderPattern.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Documents\DN5\EngineeringConcepts\BuilderPattern\BuilderPattern\obj\Debug\net10.0\BuilderPattern.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Documents\DN5\EngineeringConcepts\BuilderPattern\BuilderPattern\obj\Debug\net10.0\BuilderPattern.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Documents\DN5\EngineeringConcepts\BuilderPattern\BuilderPattern\obj\Debug\net10.0\BuilderPattern.dll
+C:\Users\hp\OneDrive\Documents\DN5\EngineeringConcepts\BuilderPattern\BuilderPattern\obj\Debug\net10.0\refint\BuilderPattern.dll
+C:\Users\hp\OneDrive\Documents\DN5\EngineeringConcepts\BuilderPattern\BuilderPattern\obj\Debug\net10.0\BuilderPattern.pdb
+C:\Users\hp\OneDrive\Documents\DN5\EngineeringConcepts\BuilderPattern\BuilderPattern\obj\Debug\net10.0\BuilderPattern.genruntimeconfig.cache
+C:\Users\hp\OneDrive\Documents\DN5\EngineeringConcepts\BuilderPattern\BuilderPattern\obj\Debug\net10.0\ref\BuilderPattern.dll
