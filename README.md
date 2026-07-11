@@ -2,7 +2,7 @@
 
 I am **Manvitha Yeddu**, a third-year B.Tech student in **Information Technology** with a strong passion for software development and problem-solving. I have developed a solid foundation in **Python, HTML, CSS, JavaScript, React, and SQL** through academic coursework and hands-on projects. I am dedicated to continuously expanding my technical knowledge by exploring new technologies and building practical applications.
 
-My technical interests include **Object-Oriented Programming (OOP), SOLID Principles, Design Patterns, Data Structures and Algorithms, Database Management Systems, Advanced SQL,Entity Framework Core, Microservices Architecture, Angular, Git, CI/CD, Docker, and Generative AI Fundamentals**. I enjoy developing scalable, maintainable, and efficient software solutions while following industry best practices and modern development methodologies.
+My technical interests include **Object-Oriented Programming (OOP), Data Structures and Algorithms, Database Management Systems, Angular, Git, CI/CD, Docker, and Generative AI Fundamentals**. I enjoy developing scalable, maintainable, and efficient software solutions while following industry best practices and modern development methodologies.
 
 I am enthusiastic about learning new technologies, solving complex challenges, and collaborating with others to create impactful software. With strong analytical thinking, adaptability, and a continuous learning mindset, I strive to enhance both my technical and professional skills.
 
